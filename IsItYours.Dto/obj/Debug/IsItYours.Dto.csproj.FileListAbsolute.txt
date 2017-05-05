@@ -1,0 +1,5 @@
+E:\IsItYours\IsItYours.Dto\bin\Debug\IsItYours.Dto.dll
+E:\IsItYours\IsItYours.Dto\bin\Debug\IsItYours.Dto.pdb
+E:\IsItYours\IsItYours.Dto\obj\Debug\IsItYours.Dto.csprojResolveAssemblyReference.cache
+E:\IsItYours\IsItYours.Dto\obj\Debug\IsItYours.Dto.dll
+E:\IsItYours\IsItYours.Dto\obj\Debug\IsItYours.Dto.pdb

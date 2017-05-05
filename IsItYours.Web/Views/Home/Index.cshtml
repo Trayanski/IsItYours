@@ -1,0 +1,20 @@
+﻿@{
+	ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+	<h1>Have you lost or perhaps found something?</h1>
+</div>
+
+
+<h2>World's smallest Lost & Found platform</h2>
+<div class="col-lg-12" style="height: 300px;">
+	<div class="row">
+		<div class="col-xs-6">
+			<button type="button" class="btn btn-default btn-lg lost pull-right">@Html.ActionLink("LOST SOMETHING", "Index", "Items")</button>
+		</div>
+		<div class="col-xs-6">
+			<button type="button" class="btn btn-default btn-lg found pull-left">@Html.ActionLink("FOUND SOMETHING", "Create", "Items")</button>
+		</div>
+	</div>
+</div>

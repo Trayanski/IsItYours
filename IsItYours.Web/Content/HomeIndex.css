@@ -1,0 +1,45 @@
+﻿body {
+	background-image: url('LostAndFound.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 0;
+}
+
+.jumbotron {
+	background: rgb(7, 54, 66); /* This is for ie8 and below */
+	background: rgba(7, 54, 66, 0.5);
+	color: #fff;
+}
+
+button, .btn-link, .btn, .btn-default, .btn-lg, a, a:hover {
+	color: #fff;
+}
+
+.btn, .btn-default, .btn-lg {
+	font-weight: bold;
+	text-align: center;
+	height: 100%;
+	width: 50%;
+	border: none;
+}
+
+.lost {
+	background-color: #B82828;
+}
+
+.lost:hover {
+	background-color: #9F1010;
+}
+
+.found {
+	background-color: #333;
+}
+
+.found:hover {
+	background-color: #000;
+}
+
+h1,h2, h3 {
+	text-align: center;
+	color: #fff;
+}
